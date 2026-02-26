@@ -1,0 +1,14 @@
+{
+  "languageMode": "strict",
+  "globals": [
+    "script",
+    "game",
+    "task",
+    "warn",
+    "print"
+  ],
+  "lint": {
+    "UnknownGlobal": true,
+    "DeprecatedApi": true
+  }
+}

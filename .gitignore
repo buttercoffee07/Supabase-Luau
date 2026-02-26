@@ -1,8 +1,12 @@
 # Project place file
 /Supabase-Luau.rbxlx
+/*.rbxlx
 
 # Roblox Studio lock files
 /*.rbxlx.lock
 /*.rbxl.lock
 
 sourcemap.json
+
+# Local stress/integration script (contains local project credentials)
+/src/server/init.server.luau
